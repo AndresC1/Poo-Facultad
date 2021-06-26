@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Universidad\3er_Año\Programacion orientada a objetos(C#)\Ejercicios Propuestos - 011\Ejercicio_003\Ejercicio_003\bin\Debug\Ejercicio_003.exe.config
+C:\Users\Lenovo\Documents\Universidad\3er_Año\Programacion orientada a objetos(C#)\Ejercicios Propuestos - 011\Ejercicio_003\Ejercicio_003\bin\Debug\Ejercicio_003.exe
+C:\Users\Lenovo\Documents\Universidad\3er_Año\Programacion orientada a objetos(C#)\Ejercicios Propuestos - 011\Ejercicio_003\Ejercicio_003\bin\Debug\Ejercicio_003.pdb
+C:\Users\Lenovo\Documents\Universidad\3er_Año\Programacion orientada a objetos(C#)\Ejercicios Propuestos - 011\Ejercicio_003\Ejercicio_003\obj\Debug\Ejercicio_003.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Universidad\3er_Año\Programacion orientada a objetos(C#)\Ejercicios Propuestos - 011\Ejercicio_003\Ejercicio_003\obj\Debug\Ejercicio_003.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Universidad\3er_Año\Programacion orientada a objetos(C#)\Ejercicios Propuestos - 011\Ejercicio_003\Ejercicio_003\obj\Debug\Ejercicio_003.exe
+C:\Users\Lenovo\Documents\Universidad\3er_Año\Programacion orientada a objetos(C#)\Ejercicios Propuestos - 011\Ejercicio_003\Ejercicio_003\obj\Debug\Ejercicio_003.pdb
